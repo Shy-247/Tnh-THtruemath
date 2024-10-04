@@ -1,0 +1,1 @@
+web: gunicorn kiepnandaluc22h02.wsgi
